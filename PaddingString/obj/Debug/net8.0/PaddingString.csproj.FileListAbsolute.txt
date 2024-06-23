@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\PaddingString\bin\Debug\net8.0\PaddingString.exe
+C:\Users\48571\source\repos\PaddingString\bin\Debug\net8.0\PaddingString.deps.json
+C:\Users\48571\source\repos\PaddingString\bin\Debug\net8.0\PaddingString.runtimeconfig.json
+C:\Users\48571\source\repos\PaddingString\bin\Debug\net8.0\PaddingString.dll
+C:\Users\48571\source\repos\PaddingString\bin\Debug\net8.0\PaddingString.pdb
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\PaddingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\PaddingString.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\PaddingString.AssemblyInfo.cs
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\PaddingString.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\PaddingString.dll
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\refint\PaddingString.dll
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\PaddingString.pdb
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\PaddingString.genruntimeconfig.cache
+C:\Users\48571\source\repos\PaddingString\obj\Debug\net8.0\ref\PaddingString.dll
